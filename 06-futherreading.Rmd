@@ -134,3 +134,11 @@ https://www.youtube.com/watch?v=FpCrY7x5nEE&t=190s&ab_channel=TED-Ed
 
 > Contributor: Emm
 
+## Anil Oza (2023) "Reproducibility trial: 246 biologists get different results from same data sets"
+
+With same data sets, 246 biologists get different results- showing how analytical choices drive conclusions
+
+This Nature article, published on October 12, 2023, sheds light on a groundbreaking study in ecology, where over 200 biologists conducted separate analyses on the same ecological data, revealing significantly varied results. This pioneering effort highlights the substantial impact of scientists' analytical choices on research outcomes, emphasizing the need for a more comprehensive understanding of reproducibility in scientific studies. The findings challenge the common perception of individual papers' results as definitive, underscoring the importance of a collective and systematic approach to interpreting scientific data. Brian Nosek, executive director of the Center for Open Science, sees the potential for this study to catalyse a larger movement towards improving reproducibility in ecology and evolutionary biology, similar to the impact seen in psychology. The article underscores the difficulty in replicating results within ecological studies due to the observational nature of the field, making it crucial for researchers to transparently disclose their analytical decisions and potential caveats. The article's relevance lies in its contribution to the ongoing discourse on reproducibility in science, calling for a shift in the research community towards more systematic and transparent practices to ensure the robustness and reliability of scientific findings.
+
+> Contributor: Lieschen 
+
